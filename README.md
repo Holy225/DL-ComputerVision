@@ -1,2 +1,2 @@
 # DL-ComputerVision
-##Projet Deep Learning couplé avec le projet Computer Vision
+Projet Deep Learning couplé avec le projet Computer Vision
